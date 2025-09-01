@@ -1,0 +1,14 @@
+tensorflow==2.11
+numpy==1.23
+scipy==1.10
+matplotlib
+pandas
+scikit-learn
+
+# create on annaconda prompt #
+# conda create -n [name] python=[version]
+# conda activate [name]
+# cd [address]
+# pip install -r requirements.txt
+# configure the settings #
+# setting -> python interpreter -> .\anaconda3\condabin\conda.bat
