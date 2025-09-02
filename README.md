@@ -52,4 +52,4 @@ Benchmark B: Comparison with state-of-the-art deep learning models for EEG denoi
 
 # Status
 
-Ongoing development. Current version includes multiple submissions (submit, the-second-submit, the-fourth-submit, sixth submit) that reflect progressive experiments.
+Ongoing development. Current version includes multiple submissions (submit, the-second-submit, the-fourth-submit, sixth submit) that reflect progressive experiments. It is notable that these documents are not the whole story, just for fast verification and reproduction. If you are interested in the training process, please email at ShiCheng056@outlook.com.
