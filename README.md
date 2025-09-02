@@ -50,6 +50,10 @@ Benchmark A: Classical signal processing baselines (band-pass filtering, DL mode
 
 Benchmark B: Comparison with state-of-the-art deep learning models for EEG denoising (mobile DAE).
 
+# Dataset
+
+Due to the 1G restriction of Git repository, part of dataset document and history record is provided by Link: https://pan.baidu.com/s/1OsebeGXQVAElKzR18QE6aA (code: t9ic) 
+
 # Status
 
 Ongoing development. Current version includes multiple submissions (submit, the-second-submit, the-fourth-submit, sixth submit) that reflect progressive experiments. It is notable that these documents are not the whole story, just for fast verification and reproduction. If you are interested in the training process or other details, please email at ShiCheng056@outlook.com.
