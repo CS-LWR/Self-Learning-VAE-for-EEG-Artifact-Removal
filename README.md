@@ -10,7 +10,7 @@ Benchmark A – Initial benchmark experiments with traditional filtering methods
 
 Benchmark B – Extended benchmarks with representative deep learning models (mobile-DAE).
 
-Me_VAE/Code – Customized VAE implementation in MATLAB and Python, including encoder–decoder structures and training loop.
+Me_VAE/Code – Customized VAE implementation in MATLAB and Python, including encoder–decoder structures and training loop. It is notable that 2D convolutional layer with specific filter setting [heinght:1, width:3] is applied to support customized training, not normal 1D convolutional layer, but the effect is the same as you can monitor the training process by pause and check in workspace.
 
 Self-learning – Explorations on online and self-learning strategies for adaptive EEG denoising.
 
