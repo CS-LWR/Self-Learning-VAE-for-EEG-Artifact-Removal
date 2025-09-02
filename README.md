@@ -24,7 +24,7 @@ README.md – Project documentation.
 
 The goal of this project is to remove artifacts (EOG, EMG, motion) from EEG recordings using modern deep learning architectures. Building on conventional autoencoder designs, this work extends to:
 
-Variational Autoencoder (VAE) with customized architecture.
+Me-VAE with customized architecture.
 
 Hybrid modeling combining CNN, RNN, and Transformer components.
 
