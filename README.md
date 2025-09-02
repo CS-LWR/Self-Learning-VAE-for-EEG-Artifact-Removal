@@ -68,7 +68,7 @@ keywords: Electroencephalography;Signal processing algorithms;Brain modeling;Rea
 Git Link: https://github.com/Non-Invasive-Bioelectronics-Lab/Autoencoder.git
 
 VAE support function: 
-Deeplearning toolbox function: Sampling layer, projection layer, batch function and corresponding sub-function (please note that it is modified in this work):
+Deeplearning toolbox function (modified in this work):
 
 [3] MathWorks, “Train Variational Autoencoder (VAE) to Generate Images,” MATLAB Documentation (Deep Learning Toolbox), 2025. [Online]. Available: https://uk.mathworks.com/help/deeplearning/ug/train-a-variational-autoencoder-vae-to-generate-images.html. [Accessed: 2-Sep-2025].
 
