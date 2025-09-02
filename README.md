@@ -50,9 +50,9 @@ Benchmark A: Classical signal processing baselines (band-pass filtering, DL mode
 
 Benchmark B: Comparison with state-of-the-art deep learning models for EEG denoising (mobile DAE).
 
-# Dataset
+# Dataset of Me-VAE and Self-learning Part
 
-Due to the 1G restriction of Git repository, part of dataset document and history record is provided by Link: https://pan.baidu.com/s/1OsebeGXQVAElKzR18QE6aA (code: t9ic) 
+Due to the 1G restriction of Git repository, part of dataset document and history record is included in Link: https://pan.baidu.com/s/1OsebeGXQVAElKzR18QE6aA (code: t9ic) 
 
 # Status
 
