@@ -17,7 +17,7 @@ Standard Comparison (created)
 Index calculation and histogram plot (created)
 	evaluateEEGDenosing.m 
 Waveform Comparison, PSD and scalogram (created)
-        visualizeEEGComparison.m
+    visualizeEEGComparison.m
 	compare.m
 	plotPSDComparison.m
 	plotScalogramComparison.m
