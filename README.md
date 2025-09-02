@@ -56,23 +56,30 @@ Ongoing development. Current version includes multiple submissions (submit, the-
 
 # Citation
 Benchmark A:
+
 [1] H. Zhang, M. Zhao, C. Wei, D. Mantini, Z. Li and Q. Liu, "EEGdenoiseNet: A Benchmark Dataset for Deep Learning Solutions of EEG Denoising," Journal of Neural Engineering, vol. 18, no. 5, p. 056057, Oct. 2021, doi: 10.1088/1741-2552/ac2bf8.
 Keywords (from the paper): deep learning; neural network; EEG dataset; benchmark dataset; EEG artifact removal; EEG denoising.
 Git Link: https://github.com/ncclabsustech/EEGdenoiseNet
 
 Benchmark B:
+
 [2] L. Xing and A. J. Casson, "Deep Autoencoder for Real-Time Single-Channel EEG Cleaning and Its Smartphone Implementation Using TensorFlow Lite With Hardware/Software Acceleration," in IEEE Transactions on Biomedical Engineering, vol. 71, no. 11, pp. 3111-3122, Nov. 2024, doi: 10.1109/TBME.2024.3408331.
 keywords: Electroencephalography;Signal processing algorithms;Brain modeling;Real-time systems;Electromyography;Electrooculography;Deep learning;Autoencoders;Smart phones;Tensors;Deep learning;convolutional autoencoder;EEG artifact removal;smartphone;tensorflow lite.
 Git Link: https://github.com/Non-Invasive-Bioelectronics-Lab/Autoencoder.git
 
 VAE support function: 
 Deeplearning toolbox function: Sampling layer, projection layer, batch function and corresponding sub-function (please note that it is modified in this work):
+
 [3] MathWorks, “Train Variational Autoencoder (VAE) to Generate Images,” MATLAB Documentation (Deep Learning Toolbox), 2025. [Online]. Available: https://uk.mathworks.com/help/deeplearning/ug/train-a-variational-autoencoder-vae-to-generate-images.html. [Accessed: 2-Sep-2025].
+
 [4] Diederik P. Kingma and Max Welling (2019), "An Introduction to Variational Autoencoders", Foundations and Trends® in Machine Learning: Vol. 12: No. 4, pp 307-392. http://dx.doi.org/10.1561/2200000056 
+
 The toolbox strictly follows the original VAE principle which is independent of any specific programming environment. While our MATLAB implementation (supplementary only for fast validation) employs modified support functions (sampling layer, projection layer, batch function) adapted from the Deep Learning Toolbox example [3], the same mechanism can equivalently be realized in Python or other deep learning frameworks. Thus, [3] is cited as a reference for implementation support only in this github implementation, while the theoretical foundation is attributed to [4].
 
 Format transform function (included in the "Toobox"):
+
 [5] kwikteam, “npy-matlab: Read/Write NPY files in MATLAB,” GitHub repository, 2017. [Online]. Available: https://github.com/kwikteam/npy-matlab. [Accessed: 2-Sep-2025].
+
 The npy-matlab toolbox [3] was employed solely in the verification materials to support flexible interoperability between MATLAB and Python environments. This utility served only as a data handling aid and is not part of the methodological evaluation or contribution of this work.
 
 
