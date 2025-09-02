@@ -2,7 +2,7 @@
 
 CS-LWR: Self-Learning VAE for EEG Artifact Removal
 
-This repository contains the implementation, benchmarks, and supporting tools for my MSc dissertation project: Self-learning Variational Autoencoder for EEG Artifact Removal.
+This repository contains the implementation, benchmarks, and supporting tools for my MSc dissertation project: Self-learning Variational Autoencoder for EEG Artifact Removal (Key code only).
 
 # Repository Structure
 
